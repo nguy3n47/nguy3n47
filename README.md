@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+[<img src="https://spotify-playing-git-master.nguy3n47.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 
 <!--
 **nguy3n47/nguy3n47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
