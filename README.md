@@ -31,6 +31,8 @@
 
 [Nguy3n]: https://github.com/nguy3n47
 [Facebook]: https://fb.me/nguyen.fit.hcmus
+
+<img src="https://i.imgur.com/QQJtAqy.png" />
 <!--
 **nguy3n47/nguy3n47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
