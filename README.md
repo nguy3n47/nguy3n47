@@ -28,7 +28,7 @@
 <br>
 
 <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=nguy3n47&show_icons=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact" />
 
 <img src="https://i.imgur.com/QQJtAqy.png" />
 
