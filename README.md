@@ -28,11 +28,14 @@
 <br>
 
 <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=nguy3n47&show_icons=true&hide_border=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact" height="193"/>
+
+<img src="https://i.imgur.com/QQJtAqy.png" />
+
+
 [Nguy3n]: https://github.com/nguy3n47
 [Facebook]: https://fb.me/nguyen.fit.hcmus
 
-<img src="https://i.imgur.com/QQJtAqy.png" />
 <!--
 **nguy3n47/nguy3n47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
