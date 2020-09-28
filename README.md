@@ -27,8 +27,8 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=nguy3n47&show_icons=true&hide_border=true" />
-
+<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=nguy3n47&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact" />
 [Nguy3n]: https://github.com/nguy3n47
 [Facebook]: https://fb.me/nguyen.fit.hcmus
 
