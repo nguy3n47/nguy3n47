@@ -30,7 +30,7 @@
 
 ![](https://i.imgur.com/cl1lPau.gif)
 
-[Nguy3n]: https://github.com/nguy3n47
+[Nguyen]: https://github.com/nguy3n47
 [Facebook]: https://fb.me/nguy3n47
 
 <!--
