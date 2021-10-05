@@ -1,4 +1,4 @@
-### Hi there, I'm Nguyen - [Developer] 👋
+### Hi there, I'm Nguyen - [SWE] 👋
 
 - 🔭 I’m currently working on [Nguyen]
 - 💬 Ask me about every thing I learned
