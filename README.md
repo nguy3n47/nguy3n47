@@ -1,4 +1,4 @@
-<div align=left>
+<div align=center>
   <img src="https://i.imgur.com/cl1lPau.gif" />
 </div>
 
@@ -61,12 +61,12 @@
 &nbsp;
 <br>
 
-<div align=left>
+<div align=center>
   <a href="#">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=nguy3n47&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nguy3n47&layout=compact&show_icons=true&hide_border=true" />
   </a>
   <a href="#">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact&hide_border=true" />
   </a>
 </div>
 
