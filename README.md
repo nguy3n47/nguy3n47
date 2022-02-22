@@ -65,9 +65,11 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=nguy3n47&layout=compact&show_icons=true&hide_border=true" />
   </a>
+  <!--
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact&hide_border=true" />
+    <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguy3n47&layout=compact&hide_border=true" />
   </a>
+  -->
 </div>
 
 [Nguyen]: https://github.com/nguy3n47
