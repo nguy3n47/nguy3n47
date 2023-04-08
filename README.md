@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Nguyen - [SWE] 👋
 
-- 🔭 I’m currently working on [Nguyen]
+- 🔭 I’m currently working at [@LastmileWorks]
 - 💬 Ask me about every thing I learned
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: I share... a lot!
@@ -72,7 +72,7 @@
   -->
 </div>
 
-[Nguyen]: https://github.com/nguy3n47
+[@LastmileWorks]: https://github.com/LastmileWorks
 [Facebook]: https://fb.me/nguy3n47
 
 <!--
